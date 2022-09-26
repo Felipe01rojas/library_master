@@ -57,6 +57,18 @@
     text-align: left;
     cursor: pointer;
 }
+.subtitulo1{
+    position: absolute;
+    top: 70px;
+    right: 1172px;
+    color: red;
+    font-weight: 600;
+/*     text-decoration:underline;
+    transition: all .3s ease-out; */
+}
+/* .subtitulo1::before{
+text-decoration: underline;
+} */
 .usuario{
     color: red;
     position: absolute;
